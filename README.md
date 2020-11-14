@@ -32,7 +32,7 @@
 
 
 <br/>
-
+<br/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -51,4 +51,5 @@ Python      3 hr 21 mins    ██▋░░░░░░░░░░░░░░�
 
 ```
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
