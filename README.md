@@ -34,12 +34,15 @@
 <br/>
 <br/>
 
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="JodyZ0203's GitHub Stats" src="https://github-readme-stat.jodyz0203.vercel.app/api?username=jodyz0203&show_icons=true&hide_border=true" />
 
 </details>
+
+---
 
 <hr>
 <details>
@@ -48,6 +51,7 @@
     <img src="https://wakatime.com/share/@647db372-066e-49a9-90a2-4f9e71bdc070/ba83aa0b-96d7-4cd8-9bad-dc878a63853a.svg" height="395"/>
   </p>
 </details>
+</hr>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
