@@ -41,15 +41,13 @@
 
 </details>
 
-
-----
-```txt
-🗄️ Weekly Development Breakdown
-Racket      12 hrs 45 mins  ████████████▋░░░░░░░░  57.9%
-Go          5 hrs 55 mins   █████░░░░░░░░░░░░░░░░  26.9%
-Python      3 hr 21 mins    ██▋░░░░░░░░░░░░░░░░░░  15.2%
-
-```
+<hr>
+<details>
+  <summary>:zap: More Github Stastistics...</summary>
+  <p align = "center">
+    <img src="https://wakatime.com/share/@647db372-066e-49a9-90a2-4f9e71bdc070/ba83aa0b-96d7-4cd8-9bad-dc878a63853a.svg" height="395"/>
+  </p>
+</details>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
