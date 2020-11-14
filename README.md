@@ -15,7 +15,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Jody Zhou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="jody625326 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Gmail.svg" />][Gmail]
+
 
 ### Languages and Tools
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />]
