@@ -1,6 +1,6 @@
 ### Hello, welcome to my github profile. I'm Jody 👋
 
-#### You will spend approximately 1 minute reading this ⌛️
+##### You will spend approximately 1 minute reading this ⌛️
 
 
 ## I'm a Student📖, Developer</>💻, Athlete🏀
@@ -11,7 +11,7 @@
 - 💼 **Seeking Summer Coop 2021**
 
 
->> He who has a why to live can bear almost any how - Friedrich Nietzsche
+
 
 ---
 
@@ -33,9 +33,10 @@
 
 <br/>
 <br/>
+
 ----
 ```txt
-### 🗄️ Weekly Development Breakdown
+🗄️ Weekly Development Breakdown
 Racket      12 hrs 45 mins  ████████████▋░░░░░░░░  57.9%
 Go          5 hrs 55 mins   █████░░░░░░░░░░░░░░░░  26.9%
 Python      3 hr 21 mins    ██▋░░░░░░░░░░░░░░░░░░  15.2%
