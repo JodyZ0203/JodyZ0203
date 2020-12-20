@@ -18,6 +18,7 @@
 ### Connect with me:
 - 💼 Connect with me on <a href="https://www.linkedin.com/in/jody-zhou/">LinkedIn</a>
 - 📫 Reach me at: jody625326@gmail.com
+- Link to My <a href="https://jodyz0203.github.io/Personal-Website/">Personal Website</a>
 
 
 ### Languages and Tools
