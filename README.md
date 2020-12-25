@@ -46,6 +46,12 @@
 </details>
 
 <details>
+  <summary>:zap: GitHub Language Stats</summary>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodyz0203&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
+<details>
   <summary>:zap: More Github Stastistics...</summary>
   <p align = "center">
     <img src="https://wakatime.com/share/@647db372-066e-49a9-90a2-4f9e71bdc070/ba83aa0b-96d7-4cd8-9bad-dc878a63853a.svg" height="395"/>
