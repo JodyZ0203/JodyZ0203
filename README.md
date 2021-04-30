@@ -8,7 +8,7 @@
 - 🏫 I'm a first year Honours Mathematics Student at the **University of Waterloo** interested in Software Engineering, Artificial Intelligence, and Machine Learning
 - 🎯 2021 Goals: Build more side projects and learn more ~
 - 💡 Fun fact: You are not the first to see this page
-- 💼 **Seeking Summer Coop 2021**
+- 💼 **Software Test Engineering Intern @ Neo Financial**
 
 
 
