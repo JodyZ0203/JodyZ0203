@@ -61,3 +61,5 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+[![Page Views Count](https://badges.toozhao.com/badges/01F5A06MJGFF0FTQR6BYC20KT9/green.svg)](https://badges.toozhao.com/stats/01F5A06MJGFF0FTQR6BYC20KT9 "Get your own page views count badge on badges.toozhao.com")
