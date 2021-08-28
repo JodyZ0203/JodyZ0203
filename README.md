@@ -5,7 +5,7 @@
 
 ## I'm a Student📖, Developer</>💻, Athlete🏀
 - 👤 I'm currently working on my personal website/portfolio
-- 🏫 I'm a first year Honours Mathematics Student at the **University of Waterloo** interested in Software Engineering, Artificial Intelligence, and Machine Learning
+- 🏫 I'm a second year Honours Mathematics Student at the **University of Waterloo** interested in Software Engineering, Artificial Intelligence, and Machine Learning
 - 🎯 2021 Goals: Build more side projects and learn more ~
 - 💡 Fun fact: You are not the first to see this page
 - 💼 **${Next Job To Be Determined}**
