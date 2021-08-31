@@ -40,11 +40,17 @@
 ---
 
 <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="center" alt="JodyZ0203's GitHub Stats" src="https://github-readme-stat.jodyz0203.vercel.app/api?username=jodyz0203&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
   <summary>:zap: GitHub Language Stats</summary>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodyz0203&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
 
 <details>
   <summary>:zap: More Github Stastistics...</summary>
@@ -53,14 +59,11 @@
   </p>
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="JodyZ0203's GitHub Stats" src="https://github-readme-stat.jodyz0203.vercel.app/api?username=jodyz0203&show_icons=true&hide_border=true" />
-
-</details>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+
 [![Page Views Count](https://badges.toozhao.com/badges/01F5A06MJGFF0FTQR6BYC20KT9/blue.svg)](https://badges.toozhao.com/stats/01F5A06MJGFF0FTQR6BYC20KT9 "Get your own page views count badge on badges.toozhao.com")
+
