@@ -44,7 +44,7 @@
 
   <img align="center" alt="JodyZ0203's GitHub Stats" src="https://github-readme-stat.jodyz0203.vercel.app/api?username=jodyz0203&show_icons=true&hide_border=false&theme=nord" />
 
- <img align="center" alt="JodyZ0203's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodyz0203&layout=compact" />
+ <img align="center" alt="JodyZ0203's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodyz0203&layout=compact&theme=nord" />
   
 
   <p align = "center">
