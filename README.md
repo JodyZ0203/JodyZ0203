@@ -39,6 +39,17 @@
   | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jodyz0203&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jody's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodyz0203&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+C/C++      5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
+PyTorch    1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+```
+<!--END_SECTION:waka-->
 
   <p align = "center">
     <img src="https://wakatime.com/share/@647db372-066e-49a9-90a2-4f9e71bdc070/ba83aa0b-96d7-4cd8-9bad-dc878a63853a.svg" height="395"/>
@@ -49,7 +60,6 @@
 
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 
