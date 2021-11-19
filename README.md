@@ -1,16 +1,14 @@
-### Hello, welcome to my github profile. I'm Jody 👋
+<h1><img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="30"/> Hey! Nice to see you. I'm Jody 👋</h1>
 
 ##### You will spend approximately 1 minute reading this ⌛️
 
 
-## I'm a Student📖, Developer</>💻, Athlete🏀
-- 👤 I'm currently working on my personal website/portfolio
-- 🏫 I'm a second year Honours Mathematics Student at the **University of Waterloo** interested in Software Engineering, Artificial Intelligence, and Machine Learning
+### I'm a Student📖, Developer</>💻, Athlete🏀
+- 👤 I'm currently working on a Dapp (Decentralized Application)
+- 🏫 I'm a second year Honours Mathematics Student at the **University of Waterloo** interested in Software Engineering, Artificial Intelligence, Machine Learning, Autonomous Driving, Decentralized Application, Competitive Programming
 - 🎯 2021 Goals: Build more side projects and learn more ~
 - 💡 Fun fact: You are not the first to see this page
 - 💼 **${Next Job To Be Determined}**
-
-
 
 
 ---
@@ -34,18 +32,13 @@
 <img align="left" alt="Electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
 <img align="left" alt="Electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<br>
-<br>
 
----
+</br>
+</br>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jodyz0203&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jody's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodyz0203&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-  <img align="center" alt="JodyZ0203's GitHub Stats" src="https://github-readme-stat.jodyz0203.vercel.app/api?username=jodyz0203&show_icons=true&hide_border=false&theme=nord" />
-
- <img align="center" alt="JodyZ0203's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodyz0203&layout=compact&theme=nord" />
-  
 
   <p align = "center">
     <img src="https://wakatime.com/share/@647db372-066e-49a9-90a2-4f9e71bdc070/ba83aa0b-96d7-4cd8-9bad-dc878a63853a.svg" height="395"/>
@@ -53,7 +46,6 @@
   
   
   [![Page Views Count](https://badges.toozhao.com/badges/01F5A06MJGFF0FTQR6BYC20KT9/blue.svg)](https://badges.toozhao.com/stats/01F5A06MJGFF0FTQR6BYC20KT9 "Get your own page views count badge on badges.toozhao.com")
-</details>
 
 
 
