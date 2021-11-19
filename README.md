@@ -56,10 +56,6 @@ JSON       17 mins         ▓░░░░░░░░░░░░░░░░�
 Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
 ```
 <!--END_SECTION:waka-->
-
-  <p align = "center">
-    <img src="https://wakatime.com/share/@647db372-066e-49a9-90a2-4f9e71bdc070/ba83aa0b-96d7-4cd8-9bad-dc878a63853a.svg" height="395"/>
-  </p>
   
   
   [![Page Views Count](https://badges.toozhao.com/badges/01F5A06MJGFF0FTQR6BYC20KT9/blue.svg)](https://badges.toozhao.com/stats/01F5A06MJGFF0FTQR6BYC20KT9 "Get your own page views count badge on badges.toozhao.com")
