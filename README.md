@@ -1,7 +1,6 @@
-<h1><img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="30"/> Hey! Nice to see you. I'm Jody 👋</h1>
+<h1><img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="70"/> Hey! Nice to see you. I'm Jody 👋</h1>
 
 ##### You will spend approximately 1 minute reading this ⌛️
-
 
 ### I'm a Student📖, Developer</>💻, Athlete🏀
 - 👤 I'm currently working on a Dapp (Decentralized Application)
