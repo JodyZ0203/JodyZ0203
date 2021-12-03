@@ -47,10 +47,9 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 25 November, 2021 - 01 December, 2021
+Week: 26 November, 2021 - 02 December, 2021
 
-C++      3 mins          ██████████████████░░░░░░░   71.76 % 
-Python   1 min           ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+
 ```
 <!--END_SECTION:waka-->
   
