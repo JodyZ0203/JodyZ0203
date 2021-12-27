@@ -3,8 +3,8 @@
 ##### You will spend approximately 1 minute reading this ⌛️
 
 ### I'm a Student📖, Developer</>💻, Athlete🏀
-- 👤 I'm currently working on a Dapp (Decentralized Application)
-- 🏫 I'm a second year Honours Mathematics Student at the **University of Waterloo** interested in Software Engineering, Artificial Intelligence, Machine Learning, Autonomous Driving, Decentralized Application, Competitive Programming
+- 👤 I'm currently working on Markdown Note
+- 🏫 I'm a second year Honours Mathematics Student at the **University of Waterloo** interested in Software Engineering, Artificial Intelligence, Machine Learning, Autonomous Driving, Blockchain Technology, Competitive Programming
 - 🎯 2021 Goals: Build more side projects and learn more ~
 - 💡 Fun fact: You are not the first to see this page
 - 💼 **${Next Job To Be Determined}** Looking for one right now.
