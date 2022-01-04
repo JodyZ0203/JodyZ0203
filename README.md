@@ -48,7 +48,7 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2021 - 02 January, 2022
+Week: 28 December, 2021 - 03 January, 2022
 
 JavaScript   7 hrs 21 mins   ██████████▒░░░░░░░░░░░░░░   41.80 % 
 TypeScript   3 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.10 % 
