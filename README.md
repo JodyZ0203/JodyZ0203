@@ -14,7 +14,7 @@
 
 ### Connect with me:
 - 💼 Connect with me on <a href="https://www.linkedin.com/in/jody-zhou/">LinkedIn</a>
-- 📫 Reach me at: jody625326@gmail.com
+- 📫 Reach me at: jody.zhou@uwaterloo.ca || jody625326@gmail.com
 - 👨 Link to My <a href="https://me-jodyz0203.vercel.app/">Personal Website</a>
 
 <img align="right" alt="GIF" src="https://chrisdermody.com/content/images/2017/12/10_coding_dribbble.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
