@@ -48,7 +48,7 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2022 - 16 January, 2022
+Week: 11 January, 2022 - 17 January, 2022
 
 TypeScript   2 hrs 30 mins   ██████████████████░░░░░░░   72.43 % 
 Text         36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.62 % 
