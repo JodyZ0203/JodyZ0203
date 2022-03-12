@@ -49,13 +49,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 March 2022 - To: 10 March 2022
+From: 04 March 2022 - To: 11 March 2022
 
-Rust       1 hr 18 mins    ██████████████████████▒░░   89.93 %
-C++        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Text       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Other      12 mins         █████████░░░░░░░░░░░░░░░░   36.15 %
 ```
 
 <!--END_SECTION:waka-->
