@@ -49,12 +49,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 March 2022 - To: 21 March 2022
+From: 15 March 2022 - To: 22 March 2022
 
-Markdown   1 hr 45 mins    █████████████▓░░░░░░░░░░░   54.94 %
-HTML       52 mins         ███████░░░░░░░░░░░░░░░░░░   27.34 %
-Python     33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Markdown   1 hr 45 mins    ██████████████▓░░░░░░░░░░   58.75 %
+HTML       52 mins         ███████▒░░░░░░░░░░░░░░░░░   29.24 %
+Python     20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
