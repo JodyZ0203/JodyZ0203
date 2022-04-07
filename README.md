@@ -49,10 +49,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 March 2022 - To: 05 April 2022
+From: 30 March 2022 - To: 06 April 2022
 
-Markdown   0 secs          ████████████████▓░░░░░░░░   66.76 %
-Text       0 secs          ████████▒░░░░░░░░░░░░░░░░   33.24 %
+HTML       21 mins         ████████████████▓░░░░░░░░   66.93 %
+CSS        10 mins         ████████░░░░░░░░░░░░░░░░░   32.31 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
