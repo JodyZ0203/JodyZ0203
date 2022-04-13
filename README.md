@@ -49,7 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2022 - To: 11 April 2022
+From: 05 April 2022 - To: 12 April 2022
 
 HTML       21 mins         ██████████▒░░░░░░░░░░░░░░   41.75 %
 Markdown   19 mins         █████████▒░░░░░░░░░░░░░░░   37.16 %
