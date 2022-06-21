@@ -49,13 +49,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 June 2022 - To: 19 June 2022
+From: 13 June 2022 - To: 20 June 2022
 
-Python       1 min           ███████████████▓░░░░░░░░░   62.19 %
-Markdown     0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.89 %
-TypeScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+TypeScript   27 mins         ███████████████▒░░░░░░░░░   61.24 %
+Other        8 mins          █████░░░░░░░░░░░░░░░░░░░░   19.62 %
 ```
 
 <!--END_SECTION:waka-->
