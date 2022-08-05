@@ -49,14 +49,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 July 2022 - To: 01 August 2022
+From: 28 July 2022 - To: 04 August 2022
 
-Python                     34 mins         ███████████▒░░░░░░░░░░░░░   45.25 %
-Docker                     31 mins         ██████████▒░░░░░░░░░░░░░░   41.05 %
-Vue.js                     7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-Nginx configuration file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-YAML                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Bash                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Python                     30 mins         ████████████▒░░░░░░░░░░░░   49.01 %
+Docker                     19 mins         ████████░░░░░░░░░░░░░░░░░   32.28 %
+Vue.js                     7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+Nginx configuration file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+HTML                       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+YAML                       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
