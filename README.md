@@ -7,8 +7,12 @@
 - 🏫 I'm a second year Honours Mathematics Student at the **University of Waterloo** interested in Software Engineering, Artificial Intelligence, Machine Learning, Autonomous Driving, Blockchain Technology, Competitive Programming
 - 🎯 2022 Goals: Build more side projects and learn more ~
 - 💡 Fun fact: You are not the first to see this page
-- 💼 Fullstack Developer.
 
+⚡️ Work Experience:
+* Fullstack Developer Co-op @ SS&C Technologies [Summer 2022]
+* Software Test Engineer Co-op @ Neo Financial Technologies [Summer 2021]
+
+Seeking 2023 Winter && Fall Co-op
 
 ---
 
@@ -42,8 +46,6 @@
 <br>
 <br>
 
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jodyz0203&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jody's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodyz0203&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
