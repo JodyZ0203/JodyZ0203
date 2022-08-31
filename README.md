@@ -51,10 +51,9 @@ Seeking 2023 Winter && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 August 2022 - To: 29 August 2022
+From: 23 August 2022 - To: 30 August 2022
 
-JavaScript    4 hrs 50 mins   █████████████████████████   99.36 %
-Other         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+JavaScript   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
