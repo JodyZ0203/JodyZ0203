@@ -51,14 +51,14 @@ Seeking 2023 Winter && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 September 2022 - To: 19 September 2022
+From: 13 September 2022 - To: 20 September 2022
 
-JavaScript   49 mins         ███████████▒░░░░░░░░░░░░░   44.95 %
-Python       27 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.80 %
-Bash         12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-Text         7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-YAML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Docker       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+JavaScript                 41 mins         ███████▓░░░░░░░░░░░░░░░░░   30.59 %
+Python                     27 mins         █████░░░░░░░░░░░░░░░░░░░░   20.24 %
+Docker                     18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+Bash                       12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+Vue.js                     11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+YAML                       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
 ```
 
 <!--END_SECTION:waka-->
