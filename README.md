@@ -52,7 +52,7 @@ Seeking 2023 Winter && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 November 2022 - To: 11 November 2022
+From: 05 November 2022 - To: 12 November 2022
 
 Python   1 hr 15 mins    ██████████████████████▓░░   90.87 %
 Text     7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
