@@ -52,14 +52,14 @@ Seeking 2023 Winter && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 November 2022 - To: 14 November 2022
+From: 08 November 2022 - To: 15 November 2022
 
-Python            1 hr 12 mins    ██████████████████▒░░░░░░   72.90 %
-Markdown          10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-Text              7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-Go                6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Protocol Buffer   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-R                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Python            1 hr 2 mins     █████████████████▓░░░░░░░   70.26 %
+Markdown          10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+Text              6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+Go                6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+Protocol Buffer   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
