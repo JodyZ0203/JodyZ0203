@@ -4,7 +4,7 @@
 
 ### I'm a Student📖, Developer</>💻, Athlete🏀
 - 👤 I'm currently working on uwpath
-- 🏫 I'm a second year Honours Mathematics Student at the **University of Waterloo** interested in Software Engineering, Artificial Intelligence, Machine Learning, Autonomous Driving, Blockchain Technology, Competitive Programming
+- 🏫 I'm a second year Honours Mathematics Student at the **University of Waterloo** interested in Software Engineering, Artificial Intelligence, Machine Learning, Autonomous Driving, Blockchain Technology, Competitive Programming, and Quantum Computing
 - 🎯 2022 Goals: Build more side projects and learn more ~
 - 💡 Fun fact: You are not the first to see this page
 
