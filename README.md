@@ -9,7 +9,6 @@
 - 💡 Fun fact: You are not the first to see this page
 
 ⚡️ Work Experience:
-* Software Engineering Intern @ Snapcommerce [Winter 2023]
 * Fullstack Developer Co-op @ SS&C Technologies [Summer 2022]
 * Software Test Engineer Co-op @ Neo Financial Technologies [Summer 2021]
 
