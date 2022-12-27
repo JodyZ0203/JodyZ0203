@@ -51,9 +51,7 @@ Seeking 2023 Winter && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 December 2022 - To: 25 December 2022
-
-TypeScript   2 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
