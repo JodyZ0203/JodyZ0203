@@ -52,10 +52,13 @@ Seeking 2023 Summer && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 January 2023 - To: 08 January 2023
+From: 02 January 2023 - To: 09 January 2023
 
-Python       4 hrs 46 mins   █████████████████████▓░░░   86.19 %
-Other        35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+Python       1 hr 41 mins    ███████████████████████▒░   92.68 %
+JavaScript   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Terraform    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
