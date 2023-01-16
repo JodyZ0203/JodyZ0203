@@ -52,10 +52,7 @@ Seeking 2023 Summer && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 January 2023 - To: 14 January 2023
-
-JavaScript   0 secs          ███████████████████████▓░   94.70 %
-JSON         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
