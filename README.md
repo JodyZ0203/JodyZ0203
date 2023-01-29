@@ -52,14 +52,14 @@ Seeking 2023 Summer && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 January 2023 - To: 27 January 2023
+From: 21 January 2023 - To: 28 January 2023
 
-Python      5 hrs 54 mins   ██████████████████░░░░░░░   72.49 %
-YAML        33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
-Bash        32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-JSON        27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-Terraform   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Markdown    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Python      6 hrs 9 mins    ████████████████████░░░░░   79.56 %
+Bash        24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+YAML        23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+JSON        22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Terraform   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Other       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
