@@ -52,14 +52,14 @@ Seeking 2023 Summer && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 January 2023 - To: 05 February 2023
+From: 30 January 2023 - To: 06 February 2023
 
-Terraform   35 mins         ██████████████████▒░░░░░░   72.72 %
-Python      7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
-YAML        4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-Bash        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-JSON        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-HCL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Terraform    35 mins         ███████████████▓░░░░░░░░░   62.48 %
+Python       7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
+YAML         5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+JavaScript   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
