@@ -52,7 +52,7 @@ Seeking 2023 Summer && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 February 2023 - To: 17 February 2023
+From: 11 February 2023 - To: 18 February 2023
 
 Markdown   6 mins          ██████████████░░░░░░░░░░░   55.36 %
 Assembly   4 mins          ██████████░░░░░░░░░░░░░░░   40.00 %
