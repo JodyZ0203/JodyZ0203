@@ -52,13 +52,14 @@ Seeking 2023 Summer && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 February 2023 - To: 23 February 2023
+From: 17 February 2023 - To: 24 February 2023
 
-Python       11 hrs 27 mins  ██████████████████░░░░░░░   72.61 %
-SQL          1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-Markdown     1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-JSON         55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Python       11 hrs 43 mins  █████████████████▒░░░░░░░   68.67 %
+SQL          1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+Markdown     1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+JSON         1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+YAML         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
