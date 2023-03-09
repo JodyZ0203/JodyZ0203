@@ -52,12 +52,11 @@ Seeking 2023 Summer && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2023 - To: 07 March 2023
+From: 01 March 2023 - To: 08 March 2023
 
-Assembly   4 hrs 17 mins   ███████████████████████▓░   94.70 %
-Markdown   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Vue.js     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Assembly   5 hrs 29 mins   ████████████████████████░   95.85 %
+Markdown   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
