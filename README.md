@@ -52,14 +52,14 @@ Seeking 2023 Summer && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 March 2023 - To: 20 March 2023
+From: 14 March 2023 - To: 21 March 2023
 
-JavaScript   19 mins         █████████▒░░░░░░░░░░░░░░░   37.41 %
-Solidity     15 mins         ███████░░░░░░░░░░░░░░░░░░   28.63 %
-Python       6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
-Docker       5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-Git Config   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+JavaScript   26 mins         ██████████▒░░░░░░░░░░░░░░   41.17 %
+Solidity     15 mins         ██████░░░░░░░░░░░░░░░░░░░   23.69 %
+Python       6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+Docker       5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+JSON         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Git Config   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
 ```
 
 <!--END_SECTION:waka-->
