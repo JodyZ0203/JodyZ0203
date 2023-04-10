@@ -52,13 +52,14 @@ Seeking 2023 Summer && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2023 - To: 08 April 2023
+From: 02 April 2023 - To: 09 April 2023
 
-TypeScript   5 hrs 6 mins    ██████████████████████▒░░   88.70 %
-Vue.js       21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Solidity     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+TypeScript   5 hrs 26 mins   ████████████████████▒░░░░   81.49 %
+JavaScript   32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Vue.js       22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Solidity     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
