@@ -52,7 +52,7 @@ Seeking 2023 Summer && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 April 2023 - To: 23 April 2023
+From: 17 April 2023 - To: 24 April 2023
 
 TypeScript   36 mins         ████████████████████▓░░░░   82.65 %
 Vue.js       7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
