@@ -53,14 +53,13 @@ Seeking 2023 Summer && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2023 - To: 04 May 2023
+From: 28 April 2023 - To: 05 May 2023
 
-Python       1 hr 15 mins    ███████████████░░░░░░░░░░   60.44 %
-Docker       20 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-YAML         13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-Text         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
-Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Python       2 hrs 20 mins   █████████████████░░░░░░░░   67.99 %
+YAML         28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Docker       20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+Text         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
