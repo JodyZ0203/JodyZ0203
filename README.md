@@ -14,7 +14,7 @@
 * Fullstack Developer Co-op @ SS&C Technologies [Summer 2022]
 * Software Test Engineer Co-op @ Neo Financial Technologies [Summer 2021]
 
-Seeking 2023 Summer && Fall Co-op
+Seeking 2024 Summer && Fall Co-op
 
 ---
 
