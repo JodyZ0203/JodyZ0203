@@ -53,13 +53,13 @@ Seeking 2024 Summer && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2023 - To: 12 May 2023
+From: 06 May 2023 - To: 13 May 2023
 
-TypeScript   40 mins         ███████░░░░░░░░░░░░░░░░░░   27.45 %
-YAML         29 mins         █████░░░░░░░░░░░░░░░░░░░░   20.04 %
-Python       23 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
-Markdown     20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
-TSConfig     12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+TypeScript   1 hr 7 mins     █████████▒░░░░░░░░░░░░░░░   37.43 %
+YAML         29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
+Python       23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
+Markdown     20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+JavaScript   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
 ```
 
 <!--END_SECTION:waka-->
