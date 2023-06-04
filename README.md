@@ -53,12 +53,12 @@ Seeking 2024 Summer && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2023 - To: 02 June 2023
+From: 27 May 2023 - To: 03 June 2023
 
-JSON         4 mins          ██████████████▓░░░░░░░░░░   58.22 %
-TypeScript   2 mins          █████████░░░░░░░░░░░░░░░░   36.07 %
-Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+JSON         4 mins          ████████████▒░░░░░░░░░░░░   48.82 %
+TypeScript   3 mins          ███████████▓░░░░░░░░░░░░░   46.38 %
+Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
