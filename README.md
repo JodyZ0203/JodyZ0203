@@ -3,7 +3,7 @@
 ##### You will spend approximately 1 minute reading this ⌛️
 
 ### I'm a Student📖, Developer</>💻, Athlete🏀
-- 👤 I'm currently working on uwpath
+- 👤 I'm currently working on Open Source
 - 🏫 I'm a second year Honours Mathematics Student at the **University of Waterloo** interested in Software Engineering, Artificial Intelligence, Machine Learning, Autonomous Driving, Blockchain Technology, Competitive Programming, and Quantum Computing
 - 🎯 2022 Goals: Build more side projects and learn more ~
 - 💡 Fun fact: You are not the first to see this page
@@ -21,7 +21,7 @@ Seeking 2024 Summer && Fall Co-op
 ### Connect with me:
 - 💼 Connect with me on <a href="https://www.linkedin.com/in/jody-zhou/">LinkedIn</a>
 - 📫 Reach me at: jody.zhou@uwaterloo.ca || jody625326@gmail.com
-- 👨 Link to My <a href="https://me-jodyz0203.vercel.app/">Personal Website</a>
+- 👨 Link to My <a href="https://jodyzhou.ca">Personal Website</a>
 
 <img align="right" alt="GIF" src="https://chrisdermody.com/content/images/2017/12/10_coding_dribbble.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
