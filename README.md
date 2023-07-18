@@ -53,13 +53,13 @@ Seeking 2024 Summer && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2023 - To: 16 July 2023
+From: 10 July 2023 - To: 17 July 2023
 
-Python       3 hrs 34 mins   ███████████████▓░░░░░░░░░   62.81 %
-JavaScript   2 hrs 5 mins    █████████▒░░░░░░░░░░░░░░░   36.87 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python       6 hrs 22 mins   ██████████████████▒░░░░░░   72.77 %
+JavaScript   2 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.93 %
+YAML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
