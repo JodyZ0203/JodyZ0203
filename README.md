@@ -53,7 +53,7 @@ Seeking 2024 Summer && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2023 - To: 26 July 2023
+From: 20 July 2023 - To: 27 July 2023
 
 Python       1 hr 32 mins    █████████████████▓░░░░░░░   71.16 %
 Svelte       19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
