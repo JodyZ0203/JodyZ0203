@@ -9,8 +9,8 @@
 - 💡 Fun fact: You are not the first to see this page
 
 ⚡️ Work Experience:
-* Software Engineer Co-op @ UKG [Summer 2023]
-* Software Engineer Co-op @ Super [Winter 2023]
+* Software Engineer Co-op @ Ultimate Kronos Group [Summer 2023]
+* Software Engineer Co-op @ Super.com [Winter 2023]
 * Fullstack Developer Co-op @ SS&C Technologies [Summer 2022]
 * Software Test Engineer Co-op @ Neo Financial Technologies [Summer 2021]
 
