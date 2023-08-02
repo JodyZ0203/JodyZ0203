@@ -12,7 +12,7 @@
 * Software Engineer Co-op @ Ultimate Kronos Group [Summer 2023]
 * Software Engineer Co-op @ Super.com [Winter 2023]
 * Fullstack Developer Co-op @ SS&C Technologies [Summer 2022]
-* Software Test Engineer Co-op @ Neo Financial Technologies [Summer 2021]
+* Software Engineer Co-op @ Neo Financial Technologies [Summer 2021]
 
 Seeking 2024 Summer && Fall Co-op
 
