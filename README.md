@@ -53,7 +53,7 @@ Seeking 2024 Summer && Fall Co-op
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2023 - To: 07 August 2023
+From: 01 August 2023 - To: 08 August 2023
 
 Svelte       16 mins         ███████████▒░░░░░░░░░░░░░   45.68 %
 TypeScript   10 mins         ███████▒░░░░░░░░░░░░░░░░░   28.74 %
