@@ -53,12 +53,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2023 - To: 04 October 2023
+From: 28 September 2023 - To: 05 October 2023
 
-Markdown     30 mins         ████████████████████████▒   96.78 %
-Docker       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Markdown   30 mins         ████████████████████████▒   97.54 %
+Docker     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
