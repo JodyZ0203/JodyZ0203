@@ -53,11 +53,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2023 - To: 14 November 2023
+From: 09 November 2023 - To: 16 November 2023
 
-JavaScript   51 mins         ████████████████████████▓   98.27 %
+JavaScript   51 mins         ████████████████████████▓   98.06 %
 Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
