@@ -51,10 +51,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2023 - To: 19 December 2023
+From: 13 December 2023 - To: 20 December 2023
 
-Text   0 secs          ██████████████████▓░░░░░░   74.51 %
-C++    0 secs          ██████▒░░░░░░░░░░░░░░░░░░   25.49 %
+C++   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
