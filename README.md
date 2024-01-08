@@ -51,7 +51,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2023 - To: 06 January 2024
+From: 31 December 2023 - To: 07 January 2024
 
 C++        22 mins         ████████████████████████▒   97.94 %
 Assembly   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
