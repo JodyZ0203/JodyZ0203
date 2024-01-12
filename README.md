@@ -51,13 +51,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2024 - To: 10 January 2024
+From: 04 January 2024 - To: 11 January 2024
 
-C++        22 mins         ████████████████████████▒   97.94 %
-Assembly   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
