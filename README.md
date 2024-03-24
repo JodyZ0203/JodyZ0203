@@ -51,7 +51,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2024 - To: 22 March 2024
+From: 16 March 2024 - To: 23 March 2024
 
 C++        3 hrs 14 mins   █████████████████████░░░░   84.21 %
 Python     16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
