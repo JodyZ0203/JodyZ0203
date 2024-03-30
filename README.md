@@ -51,12 +51,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2024 - To: 28 March 2024
+From: 22 March 2024 - To: 29 March 2024
 
-Markdown   12 mins         █████████████░░░░░░░░░░░░   51.64 %
-C++        10 mins         ███████████▒░░░░░░░░░░░░░   45.59 %
-JSON       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Python     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Markdown   12 mins         ████████████████████████▓   98.70 %
+Python     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
