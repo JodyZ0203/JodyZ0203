@@ -9,6 +9,8 @@
 - 💡 Fun fact: You are not the first to see this page
 
 ⚡️ Work Experience:
+* Software Engineer Co-op @ **Riot Games** [Summer 2024]
+* Software Engineer Co-op @ **Wealthsimple** [Winter 2024]
 * Software Engineer Co-op @ **Ultimate Kronos Group** [Summer 2023]
 * Software Engineer Co-op @ **Super.com** [Winter 2023]
 * Fullstack Developer Co-op @ **SS&C Technologies** [Summer 2022]
