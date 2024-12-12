@@ -53,13 +53,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2024 - To: 10 December 2024
+From: 04 December 2024 - To: 11 December 2024
 
-Python   31 mins         ███████████████▓░░░░░░░░░   62.67 %
-Other    8 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-JSON     8 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
-Roff     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
