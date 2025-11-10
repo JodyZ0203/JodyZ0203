@@ -53,10 +53,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2025 - To: 08 November 2025
+From: 02 November 2025 - To: 09 November 2025
 
-CSV      7 mins          ████████████████████░░░░░   79.64 %
-Python   1 min           █████░░░░░░░░░░░░░░░░░░░░   20.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
