@@ -53,13 +53,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2026 - To: 16 January 2026
+From: 10 January 2026 - To: 17 January 2026
 
-Bash         1 hr 31 mins    █████████████▒░░░░░░░░░░░   53.27 %
-Text         25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
-Markdown     15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
-TypeScript   14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-JSON         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Bash         1 hr 35 mins    █████████░░░░░░░░░░░░░░░░   35.65 %
+Python       1 hr 31 mins    ████████▓░░░░░░░░░░░░░░░░   34.22 %
+Text         25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+Markdown     16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+TypeScript   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
 ```
 
 <!--END_SECTION:waka-->
